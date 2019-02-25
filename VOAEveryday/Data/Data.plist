@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>VOA常速英語最新</string>
+				<key>url</key>
+				<string>/VOA_Standard_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>VOA常速英語存檔</string>
+				<key>url</key>
+				<string>/VOA_Standard_1_archiver.html</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>VOA常速英語</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Technology Report 科技报道</string>
+				<key>url</key>
+				<string>/Technology_Report_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>This is America 今日美国</string>
+				<key>url</key>
+				<string>/This_is_America_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>This is America 今日美国</string>
+				<key>url</key>
+				<string>/This_is_America_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Science in the News 科学报道</string>
+				<key>url</key>
+				<string>/Science_in_the_News_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Health Report 健康报道</string>
+				<key>url</key>
+				<string>/Health_Report_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Education Report 教育报道</string>
+				<key>url</key>
+				<string>/Education_Report_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Economics Report 经济报道</string>
+				<key>url</key>
+				<string>/Economics_Report_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Arts &amp; Culture 文化艺术</string>
+				<key>url</key>
+				<string>/American_Mosaic_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>In the News 时事新闻</string>
+				<key>url</key>
+				<string>/In_the_News_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>American Stories 美国故事</string>
+				<key>url</key>
+				<string>/American_Stories_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Words And Their Stories 词汇掌故</string>
+				<key>url</key>
+				<string>/Words_And_Their_Stories_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Trending Today 今日趋势</string>
+				<key>url</key>
+				<string>/Trending_Today_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>AS IT IS 慢速新闻杂志</string>
+				<key>url</key>
+				<string>/as_it_is_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Everyday Grammar 日常语法</string>
+				<key>url</key>
+				<string>/Everyday_Grammar_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Ask a Teacher 名师答疑</string>
+				<key>url</key>
+				<string>/ask_a_teacher_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>U.S. History 美国历史</string>
+				<key>url</key>
+				<string>/The_Making_of_a_Nation_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>America's National Parks 国家公园</string>
+				<key>url</key>
+				<string>/National_Parks_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>America's Presidents 美国总统</string>
+				<key>url</key>
+				<string>/Americas_Presidents_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Agriculture Report 农业报道</string>
+				<key>url</key>
+				<string>/Agriculture_Report_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Explorations 自然探索</string>
+				<key>url</key>
+				<string>/Explorations_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>People in America 美国人物志</string>
+				<key>url</key>
+				<string>/People_in_America_1.html</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>VOA慢速英語</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Learning English Videos 慢速视频 </string>
+				<key>url</key>
+				<string>/Learning_English_Videos_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>English in a Minute 一分钟英语视频</string>
+				<key>url</key>
+				<string>/English_in_a_Minute_Videos_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>English @ the Movies 影视英语</string>
+				<key>url</key>
+				<string>/English_at_the_Movies_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>News Words 新闻词汇</string>
+				<key>url</key>
+				<string>/News_Words_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Everyday Grammar 日常语法视频</string>
+				<key>url</key>
+				<string>/Everyday_Grammar_TV_1.html</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>VOA視頻</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Bilingual News 双语新闻</string>
+				<key>url</key>
+				<string>/Bilingual_News_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Learn A Word 学个词</string>
+				<key>url</key>
+				<string>/Learn_A_Word_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Words And Idioms 美国习惯用语</string>
+				<key>url</key>
+				<string>/Words_And_Idioms_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>English in a Minute 一分钟英语音频</string>
+				<key>url</key>
+				<string>/English_in_a_Minute_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>How to Say it 美语怎么说</string>
+				<key>url</key>
+				<string>/How_American_English_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Business Etiquette 商务礼节美语</string>
+				<key>url</key>
+				<string>/Business_Etiquette_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>American English Mosaic 美语训练班</string>
+				<key>url</key>
+				<string>/American_English_Mosaic_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Popular American 流行美语</string>
+				<key>url</key>
+				<string>/Popular_American_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Sports English 体育美语</string>
+				<key>url</key>
+				<string>/Sports_English_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Go English 美语三级跳</string>
+				<key>url</key>
+				<string>/Go_English_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Wordmaster 词汇大师</string>
+				<key>url</key>
+				<string>/Word_Master_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>American Cafe 美语咖啡屋</string>
+				<key>url</key>
+				<string>/American_Cafe_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Intermediate American English 中级美国英语</string>
+				<key>url</key>
+				<string>/Intermediate_American_English_1.html</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>President's Address 美国总统演说</string>
+				<key>url</key>
+				<string>/President_Address_1.html</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>VOA英語教學</string>
+	</dict>
+</array>
+</plist>

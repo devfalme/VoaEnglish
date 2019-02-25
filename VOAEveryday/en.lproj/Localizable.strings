@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  VOAEveryday
+
+  Created by devfalme on 2019/1/16.
+  Copyright © 2019 devfalme. All rights reserved.
+*/
+"VOA慢速英語" = "VOA Slow English";
+"慢速英語" = "Slow English";
+"常速英語" = "Normal English";
+"英語教學" = "English Teaching";
+"視頻教學" = "Video Teaching";
+"收藏夾" = "Favorites";
+"還沒有收藏哦，多去看看吧" = "There is no collection yet";
+"加載完畢" = "Load completed";
+"網絡不暢！" = "The network is not smooth!";
+"已收藏" = "Collected";
+"相關推薦:" = "Related recommendation:";
+"最新" = "Latest";
+"以往" = "Before";
+"亮度" = "Brightness";
+"暫無描述" = "No description";
+"加載數據中..." = "Loading data...";
+"加載失敗" = "Load failed";
+"檢查一下網絡再試試吧" = "Check the network and try again";
+"重試" = "Retry";

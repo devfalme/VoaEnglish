@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  VOAEveryday
+//
+//  Created by devfalme on 2018/12/31.
+//  Copyright © 2018 devfalme. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <QMUIKit/QMUIKit.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <Router_t/Router_t.h>
+#import <Masonry/Masonry.h>
+#import <KafkaRefresh/KafkaRefresh.h>
+
+#ifdef DEBUG
+#define NSLog(...) NSLog(@"%s%@",__PRETTY_FUNCTION__,[NSString stringWithFormat:__VA_ARGS__])
+#else
+#define NSLog(...)
+#endif
+
+#define VoaEnglish @"http://www.51voa.com"
+
+#import "VE_Client.h"
+#import "UIView+VE_VOA.h"
+#import "VE_VOAHUD.h"
+#endif /* PrefixHeader_pch */
